@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "voxels:item/voxel_items/voxel_16"
+  }
+
+}
